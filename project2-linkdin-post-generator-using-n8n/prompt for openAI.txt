@@ -1,0 +1,15 @@
+HI, can you please generate the 3 LinkedIn post Ideas, based on the below research.
+
+{{ $json.notes }}
+make sure that you also provide the reference of what exactly is needed to write the post
+
+output  3 ideas like below.
+
+<topic1>
+<research1>
+
+<topic2>
+<research2>
+
+<topic3>
+<research3>
