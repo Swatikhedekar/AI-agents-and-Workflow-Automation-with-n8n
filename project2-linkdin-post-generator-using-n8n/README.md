@@ -1,5 +1,5 @@
 # Social Media Automation Post Generator with n8n
-![Project Banner].()
+![Project Banner].(images/workflow_2_post_generator)
 An n8n automation project that uses AI to generate LinkedIn posts from
 AI news research and save the final content in Google Sheets.
 
